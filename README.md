@@ -8,7 +8,7 @@ I'm **Subra Harshita Nistala**, a Computer Engineering student at NMIMS Mumbai, 
 - 🌱 I’m learning: Advanced Computer Vision techniques, AI applications, and ML algorithms.  
 - 👯 I’m looking to collaborate on: AI, Machine Learning, and Data Visualization projects.  
 - 💬 Ask me about: Python, Power BI, Machine Learning, and Computer Vision.  
-- 📫 How to reach me: [GitHub](https://github.com/Harshita1-rgb) | [LinkedIn](#)  
+- 📫 How to reach me: [GitHub](https://github.com/Harshita1-rgb) | [LinkedIn](https://www.linkedin.com/in/subra-harshita-nistala-35783a358/)  
 - ⚡ Fun fact: I love building projects that solve real-world problems! 🚀  
 
 ---
@@ -37,6 +37,6 @@ I'm **Subra Harshita Nistala**, a Computer Engineering student at NMIMS Mumbai, 
 
 ## 📬 Let’s Connect  
 - GitHub: [Harshita1-rgb](https://github.com/Harshita1-rgb)  
-- LinkedIn: [Your LinkedIn Profile](#)  
+- LinkedIn: [Subra Harshita Nistala](https://www.linkedin.com/in/subra-harshita-nistala-35783a358/)  
 
 🚀 **Always learning, building, and pushing the boundaries of tech!** 🌟  
