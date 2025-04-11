@@ -1,42 +1,48 @@
-## Hi there 👋  
+# 👋 Hi, I'm Subra Harshita Nistala!
 
-I'm **Subra Harshita Nistala**, a Computer Engineering student at NMIMS Mumbai, passionate about exploring Data Visualization, Computer Vision, AI, and Machine Learning.  
-
-- 🔭 I’m currently working on:  
-  - **Real-Time Face Detection using FaceNet** 🧠 (Biometrics + Computer Vision)  
-  - **Telecom Customer Churn Prediction** 📊 (Machine Learning)  
-- 🌱 I’m learning: Advanced Computer Vision techniques, AI applications, and ML algorithms.  
-- 👯 I’m looking to collaborate on: AI, Machine Learning, and Data Visualization projects.  
-- 💬 Ask me about: Python, Power BI, Machine Learning, and Computer Vision.  
-- 📫 How to reach me: [GitHub](https://github.com/Harshita1-rgb) | [LinkedIn](https://www.linkedin.com/in/subra-harshita-nistala-35783a358/)  
-- ⚡ Fun fact: I love building projects that solve real-world problems! 🚀  
+🎓 Computer Engineering Student at NMIMS Mumbai (MBA Tech, Class of 2027)  
+💻 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Data Visualization.
 
 ---
 
-# 👋 Hi, I'm Subra Harshita Nistala!  
+## 🚀 Skills
 
-🎓 **Computer Engineering Student** at NMIMS Mumbai | Passionate about Data Visualization, Computer Vision, AI, and Machine Learning.  
+- **Programming:** Python (Data Cleaning, Automation, ML Basics), Java, SQL
+- **Data Analytics & Visualization:** Power BI (Dashboards, KPIs, Data Modeling)
+- **Machine Learning & AI:** Supervised Learning (Churn Prediction), Real-Time Face Detection (Computer Vision), AI Tools Development (Ongoing)
+- **Soft Skills:** Presentation, Public Speaking, Team Collaboration, Leadership, Problem Solving
 
-## 🚀 Skills  
-- **Programming:** Python, Java, SQL  
-- **Data Visualization:** Power BI  
-- **Soft Skills:** Presentation & Leadership, Team Collaboration  
+---
 
-## 📌 Projects  
-- **Real-Time Face Detection (Biometrics + CV):** Built a face recognition system using FaceNet and MTCNN for real-time attendance marking.  
-- **Telecom Customer Churn Prediction:** Applied machine learning techniques to predict customer churn, enhancing retention strategies.  
-- **Quiz App:** Created an interactive quiz app using Android Studio.  
-- **Power BI Dashboard:** Developed a dynamic dashboard to visualize complex datasets.  
+## 📌 Projects
 
-## 🏆 Achievements  
-- **Winner, INTRAMUN 2023** – NMIMS University's Social Conclave.  
-- **1st Place in Debate** – Women’s Reproductive Health.  
+- **Real-Time Face Detection System:** Built using FaceNet and MTCNN for live face recognition and attendance marking.
+- **Telecom Customer Churn Prediction:** Applied machine learning algorithms to predict churn and improve retention strategies.
+- **Interactive Quiz App (Android Studio):** Developed a real-time scoring quiz application.
+- **Sales Dashboard (Power BI):** Created dynamic dashboards showcasing sales insights, KPIs, and category-wise analysis.
+- **AI Tools Development (In Progress):** Developing an AI-driven tool to assess cooking oil quality based on physical attributes.
+- **Conversational AI Model (Planned):** Planning an independent AI model inspired by ChatGPT, focusing on natural language understanding and intelligent dialogue.
 
-## 🌍 Experience  
-- **Community Service:** Volunteered at ISKCON Juhu & Tata Memorial Hospital.  
+---
 
-## 📬 Let’s Connect  
-- GitHub: [Harshita1-rgb](https://github.com/Harshita1-rgb)  
-- LinkedIn: [Subra Harshita Nistala](https://www.linkedin.com/in/subra-harshita-nistala-35783a358/)  
+## 🏆 Achievements
 
-🚀 **Always learning, building, and pushing the boundaries of tech!** 🌟  
+- 🥇 Winner, INTRAMUN 2023 – NMIMS University's Social Conclave.
+- 🥇 1st Place in Team-Based Debate on Women’s Reproductive Health.
+
+---
+
+## 🌍 Experience
+
+- 🤝 Volunteered at ISKCON Juhu and Tata Memorial Hospital, supporting healthcare camps and administrative operations.
+
+---
+
+## 📫 Connect with me
+
+- GitHub: [Harshita1-rgb](https://github.com/Harshita1-rgb)
+- LinkedIn: [Subra Harshita Nistala](https://www.linkedin.com/in/subra-harshita-nistala-35783a358/)
+
+---
+
+🚀 Always learning, building real-world projects, and pushing the boundaries of technology! 🌟
