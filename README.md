@@ -19,11 +19,8 @@ Customer Churn Prediction using Machine Learning
 
 🏆 Highlights
 🥇 Winner – INTRAMUN 2023 (NMIMS) & Team Debate on Women’s Health
-
 🤝 Volunteer at ISKCON Juhu & Tata Memorial Hospital
-
 💻 Internship at Ecoil – Delivered 2 successful AI-based projects
-
 🎤 Known for public speaking, leadership, and academic perseverance
 
 🤝 Let’s Connect
@@ -33,4 +30,7 @@ Customer Churn Prediction using Machine Learning
 
 🚀 Hugging Face: [oil-detector-harshita](https://huggingface.co/oil-detector-harshita)
 
-✨ On a mission to blend technology, empathy, and impact. Let’s build the future together!
+✨ On a mission to blend technology, empathy, and impact.
+Let’s build the future together!
+
+
