@@ -1,48 +1,34 @@
-# 👋 Hi, I'm Subra Harshita Nistala!
+👋 Hello there! I’m Subra Harshita Nistala
+🎓 Computer Engineering + MBA Tech student at NMIMS Mumbai (Class of 2027)
+🌱 Exploring the power of AI, ML, and Deep Learning to solve real-world problems
 
-🎓 Computer Engineering Student at NMIMS Mumbai (MBA Tech, Class of 2027)  
-💻 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Data Visualization.
+🔍 About Me
+I’m not just studying technology — I’m building with it.
+From crafting deep learning models for Alzheimer’s detection, to developing AI tools that assess oil quality in real-time, I’m passionate about creating solutions that make a difference.
 
----
+🧠 Current Research & Projects
+📄 Submitted 2 research papers (under review) to the International Conference ICERECT 2025:
 
-## 🚀 Skills
+Alzheimer’s Disease Classification using Deep Learning
 
-- **Programming:** Python (Data Cleaning, Automation, ML Basics), Java, SQL
-- **Data Analytics & Visualization:** Power BI (Dashboards, KPIs, Data Modeling)
-- **Machine Learning & AI:** Supervised Learning (Churn Prediction), Real-Time Face Detection (Computer Vision), AI Tools Development (Ongoing)
-- **Soft Skills:** Presentation, Public Speaking, Team Collaboration, Leadership, Problem Solving
+Customer Churn Prediction using Machine Learning
 
----
+💡 Built and deployed an AI tool on Hugging Face for oil quality detection
+📊 Created dashboards in Power BI to make data visually compelling
+📱 Developed Android quiz apps & real-time face recognition systems
 
-## 📌 Projects
+🏆 Highlights
+🥇 Winner – INTRAMUN 2023 (NMIMS) & Team Debate on Women’s Health
 
-- **Real-Time Face Detection System:** Built using FaceNet and MTCNN for live face recognition and attendance marking.
-- **Telecom Customer Churn Prediction:** Applied machine learning algorithms to predict churn and improve retention strategies.
-- **Interactive Quiz App (Android Studio):** Developed a real-time scoring quiz application.
-- **Sales Dashboard (Power BI):** Created dynamic dashboards showcasing sales insights, KPIs, and category-wise analysis.
-- **AI Tools Development (In Progress):** Developing an AI-driven tool to assess cooking oil quality based on physical attributes.
-- **Conversational AI Model (Planned):** Planning an independent AI model inspired by ChatGPT, focusing on natural language understanding and intelligent dialogue.
+🤝 Volunteer at ISKCON Juhu & Tata Memorial Hospital
 
----
+💻 Internship at Ecoil – Delivered 2 successful AI-based projects
 
-## 🏆 Achievements
+🎤 Known for public speaking, leadership, and academic perseverance
 
-- 🥇 Winner, INTRAMUN 2023 – NMIMS University's Social Conclave.
-- 🥇 1st Place in Team-Based Debate on Women’s Reproductive Health.
+🤝 Let’s Connect
+🔗 LinkedIn
+💻 GitHub
+🚀 Hugging Face
 
----
-
-## 🌍 Experience
-
-- 🤝 Volunteered at ISKCON Juhu and Tata Memorial Hospital, supporting healthcare camps and administrative operations.
-
----
-
-## 📫 Connect with me
-
-- GitHub: [Harshita1-rgb](https://github.com/Harshita1-rgb)
-- LinkedIn: [Subra Harshita Nistala](https://www.linkedin.com/in/subra-harshita-nistala-35783a358/)
-
----
-
-🚀 Always learning, building real-world projects, and pushing the boundaries of technology! 🌟
+✨ On a mission to blend technology, empathy, and impact. Let’s build the future together!
