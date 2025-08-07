@@ -27,8 +27,10 @@ Customer Churn Prediction using Machine Learning
 🎤 Known for public speaking, leadership, and academic perseverance
 
 🤝 Let’s Connect
-🔗 GitHub: Harshita1-rgb
-🔗 LinkedIn: Subra Harshita Nistala
-🚀 Hugging Face: oil-detector-harshita
+🔗 GitHub: https://github.com/Harshita1-rgb
+
+🔗 LinkedIn: [Subra Harshita Nistala](https://www.linkedin.com/in/subra-harshita-nistala-35783a358/)
+
+🚀 Hugging Face: [oil-detector-harshita](https://huggingface.co/oil-detector-harshita)
 
 ✨ On a mission to blend technology, empathy, and impact. Let’s build the future together!
