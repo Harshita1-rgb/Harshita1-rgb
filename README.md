@@ -1,36 +1,50 @@
-👋 Hello there! I’m Subra Harshita Nistala
+👋 Hello, I’m Subra Harshita Nistala
+
 🎓 Computer Engineering + MBA Tech student at NMIMS Mumbai (Class of 2027)
-🌱 Exploring the power of AI, ML, and Deep Learning to solve real-world problems
+🌱 Exploring the power of AI, ML, NLP, and Deep Learning to create real-world impact
 
 🔍 About Me
+
 I’m not just studying technology — I’m building with it.
-From crafting deep learning models for Alzheimer’s detection, to developing AI tools that assess oil quality in real-time, I’m passionate about creating solutions that make a difference.
+From crafting deep learning models for Alzheimer’s detection to developing AI-powered quality assessment tools, I’m driven by a passion to turn data into meaningful solutions.
+
+💬 I believe in blending research, business analytics, and innovation to bridge the gap between AI models and real-world decision-making.
 
 🧠 Current Research & Projects
-📄 Submitted 2 research papers (under review) to the International Conference ICERECT 2025:
 
-Alzheimer’s Disease Classification using Deep Learning
+📄 Publications & Research Work
 
-Customer Churn Prediction using Machine Learning
+🧩 Alzheimer’s Disease Classification using Deep Learning with Metaheuristic Optimization — Accepted at IEEE ICERECT 2025
 
-💡 Built and deployed an AI tool on Hugging Face for oil quality detection
-📊 Created dashboards in Power BI to make data visually compelling
-📱 Developed Android quiz apps & real-time face recognition systems
+🔍 Customer Churn Prediction using Machine Learning — Under review at IEEE PuneCon 2025
+
+🧠 NLP-Based Alzheimer’s Detection — Under review at MIND 2025
+
+💡 Applied Work
+
+🚀 Deployed a YOLOv8-based oil quality detection tool on Hugging Face
+
+📊 Created interactive Power BI dashboards for business analytics & performance insights
+
+🤖 Built Android and web applications including quiz apps and real-time face recognition systems
 
 🏆 Highlights
-🥇 Winner – INTRAMUN 2023 (NMIMS) & Team Debate on Women’s Health
-🤝 Volunteer at ISKCON Juhu & Tata Memorial Hospital
-💻 Internship at Ecoil – Delivered 2 successful AI-based projects
+
+🥇 Winner – INTRAMUN 2023 (NMIMS) & 1st Place – Women’s Health Debate
+
+💻 Internship at Ecoil – Delivered 2 successful AI-based industry projects
+
+🌍 Volunteer – ISKCON Juhu & Tata Memorial Hospital (2023)
+
 🎤 Known for public speaking, leadership, and academic perseverance
 
-🤝 Let’s Connect
-🔗 GitHub: https://github.com/Harshita1-rgb
+🤝 Let’s Connect!
 
-🔗 LinkedIn: [Subra Harshita Nistala](https://www.linkedin.com/in/subra-harshita-nistala-35783a358/)
+🔗 GitHub: Harshita1-rgb
 
-🚀 Hugging Face: [oil-detector-harshita](https://huggingface.co/oil-detector-harshita)
+🔗 LinkedIn: Subra Harshita Nistala
+
+🤗 Hugging Face: oil-detector-harshita
 
 ✨ On a mission to blend technology, empathy, and impact.
-Let’s build the future together!
-
-
+Let’s build something that matters together! 🚀
