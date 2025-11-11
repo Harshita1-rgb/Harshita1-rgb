@@ -1,17 +1,16 @@
 👋 Hello, I’m Subra Harshita Nistala
 
 🎓 Computer Engineering + MBA Tech student at NMIMS Mumbai (Class of 2027)
-🌱 Exploring the power of AI, ML, NLP, and Deep Learning to create real-world impact
+🌱 Exploring the power of AI, ML, NLP, and Deep Learning to create meaningful, real-world impact
 
 🔍 About Me
 
 I’m not just studying technology — I’m building with it.
-From crafting deep learning models for Alzheimer’s detection to developing AI-powered quality assessment tools, I’m driven by a passion to turn data into meaningful solutions.
+From designing deep learning models for Alzheimer’s detection to developing AI-driven quality assessment tools, I’m passionate about turning data into actionable intelligence.
 
-💬 I believe in blending research, business analytics, and innovation to bridge the gap between AI models and real-world decision-making.
+💬 I love blending research, analytics, and innovation to bridge the gap between AI models and real-world business decisions.
 
 🧠 Current Research & Projects
-
 📄 Publications & Research Work
 
 🧩 Alzheimer’s Disease Classification using Deep Learning with Metaheuristic Optimization — Accepted at IEEE ICERECT 2025
@@ -24,9 +23,9 @@ From crafting deep learning models for Alzheimer’s detection to developing AI-
 
 🚀 Deployed a YOLOv8-based oil quality detection tool on Hugging Face
 
-📊 Created interactive Power BI dashboards for business analytics & performance insights
+📊 Designed interactive Power BI dashboards to turn analytics into business insights
 
-🤖 Built Android and web applications including quiz apps and real-time face recognition systems
+🤖 Built Android and web apps, including quiz platforms and real-time face recognition systems
 
 🏆 Highlights
 
@@ -36,7 +35,7 @@ From crafting deep learning models for Alzheimer’s detection to developing AI-
 
 🌍 Volunteer – ISKCON Juhu & Tata Memorial Hospital (2023)
 
-🎤 Known for public speaking, leadership, and academic perseverance
+🎤 Recognized for public speaking, leadership, and academic perseverance
 
 🤝 Let’s Connect!
 
@@ -45,6 +44,4 @@ From crafting deep learning models for Alzheimer’s detection to developing AI-
 🔗 LinkedIn:[ Subra Harshita Nistala](https://www.linkedin.com/in/subra-harshita-nistala-35783a358/)
 
 🤗 Hugging Face: https://huggingface.co/oil-detector-harshita
-
-✨ On a mission to blend technology, empathy, and impact.
-Let’s build something that matters together! 🚀
+✨ On a mission to blend technology, empathy, and insight — building AI that truly makes a difference. 🚀
