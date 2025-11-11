@@ -40,11 +40,11 @@ From crafting deep learning models for Alzheimer’s detection to developing AI-
 
 🤝 Let’s Connect!
 
-🔗 GitHub: Harshita1-rgb
+🔗 GitHub: [Harshita1-rgb](https://github.com/Harshita1-rgb  )
 
-🔗 LinkedIn: Subra Harshita Nistala
+🔗 LinkedIn:[ Subra Harshita Nistala](https://www.linkedin.com/in/subra-harshita-nistala-35783a358/)
 
-🤗 Hugging Face: oil-detector-harshita
+🤗 Hugging Face: https://huggingface.co/oil-detector-harshita
 
 ✨ On a mission to blend technology, empathy, and impact.
 Let’s build something that matters together! 🚀
